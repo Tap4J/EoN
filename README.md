@@ -1,6 +1,8 @@
-<<<<<<< HEAD
 Znázornení časově řady a predikce dat pro EoN
-=======
-# EoN
-EoN test values
->>>>>>> 3eb3b76513bb7c181933055b316439a66e2dd388
+
+**Postup**
+
+1. Navigovať sa do projekt folderu so súborom requirements.txt (cd path/to/your/project)
+2. (Optional) Vytvoriť a aktivovať virtuálne prostredie
+3. Spustiť pip install -r requirements.txt
+4. Spustiť Jupyter lab cez príkaz "jupyter lab"
